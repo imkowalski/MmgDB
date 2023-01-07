@@ -1,0 +1,7 @@
+[GENERAL]
+# suggested port is above 1024
+PORT = 5000
+HOST = "default"
+# time between writes to file
+SAVE_TIME = 3
+SAVE_FILE = "data.mmgdb"
